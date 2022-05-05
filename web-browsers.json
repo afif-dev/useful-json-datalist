@@ -1,0 +1,15 @@
+{
+  "chrome": "Google Chrome",
+  "firefox": "Firefox",
+  "edge": "Microsoft Edge",
+  "safari": "Apple Safari",
+  "opera": "Opera",
+  "brave": "Brave",
+  "vivaldi": "Vivaldi",
+  "duckduckgo": "DuckDuckgo",
+  "chromium": "Chromium",
+  "epic": "Epic",
+  "tor": "Tor",
+  "ucweb": "UC Browser",
+  "ie": "Internet Explorer"
+}

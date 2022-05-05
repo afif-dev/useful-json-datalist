@@ -1,0 +1,19 @@
+{
+  "trip": {
+    "name": "Trip type",
+    "type": ["Return", "One-way", "Multi-city"]
+  },
+  "cabin": {
+    "name": "Cabin class",
+    "types": ["Economy", "Premium Economy", "Business", "First Class"]
+  },
+  "travellers": {
+    "adults": "Adults",
+    "children": "Children",
+    "infants": "Infants"
+  },
+  "from": "From",
+  "to": "To",
+  "depart-date": "Depart",
+  "return-date": "Return"
+}

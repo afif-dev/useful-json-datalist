@@ -1,0 +1,37 @@
+{
+  "search-hotel": "Enter a destination or property",
+  "check-in": "Check-in",
+  "check-out": "Check-out",
+  "guest-room": {
+    "name": "Guests and rooms",
+    "num-of-room": "Rooms",
+    "num-of-adults": "Adults",
+    "num-of-children": "Children"
+  },
+  "star-rating": {
+    "name": "Star rating",
+    "rating": [0, 1, 2, 3, 4, 5]
+  },
+  "guest-rating": {
+    "name": "Guest rating",
+    "rating": {
+      "6+": "6+ Good",
+      "7+": "7+ Very Good",
+      "8+": "8+ Excellent",
+      "9+": "9+ Exceptional"
+    }
+  },
+  "location-rating": {
+    "name": "Location rating",
+    "rating": {
+      "6+": "6+ Good",
+      "7+": "7+ Very Good",
+      "8+": "8+ Excellent",
+      "9+": "9+ Exceptional"
+    }
+  },
+  "payment-options": {
+    "name": "Payment Options",
+    "options": ["Free cancellation", "Pay at the hotel", "Book now, pay later", "Pay now", "Book without credit card", "Pay with eCash"]
+  }
+}
